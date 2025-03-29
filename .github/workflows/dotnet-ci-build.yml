@@ -4,6 +4,7 @@
 name: CI Build Pipeline for ASP.NET core
 
 on:
+  workflow_dispatch:
   push:
     branches: [ "main" ]
   pull_request:
