@@ -1,4 +1,4 @@
-name: .NET Core
+name: dotnet deploy to azure webapp
 
 on: 
   workflow_dispatch:
